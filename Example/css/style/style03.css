@@ -1,0 +1,25 @@
+.bg_body {
+    font-family: Verdana;
+    background-image: url("../images/img_tree_tranparent.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.bg1{
+    background-image: url("../images/img_tree_tranparent.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-color: dodgerblue;
+}
+
+.bg2 {
+    color: mediumseagreen;
+}
+
+.bg3 {
+    border: 2px solid violet;
+}
+
+.bg4 {
+    background-color: #ff6347;
+}
