@@ -8,11 +8,12 @@
     }
 
 .topnav li { 
-    display: inline; 
+    display: inline-block; 
     color: #f2f2f2;
     text-align: center;
-    padding: 15px 16px;
+    padding: 15px 0;
     background-color: darkslategray;
+    width: 19%;
     
 }
 
@@ -27,7 +28,8 @@
 
 table {
     border-collapse: collapse;
-    width: 100%
+    width: 100%;
+    font-family: monospace;
 }
 
 th, td {

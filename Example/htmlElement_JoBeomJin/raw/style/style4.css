@@ -51,6 +51,7 @@ tr:hover {
 .middle {
     vertical-align: middle;
     width: 100%;
+    margin-top: 20px;
 }
 
 .sub4_side1 {
@@ -75,9 +76,12 @@ tr:hover {
     
 }
 
+
+
 .sub4_menu {
     color: white;
-    height: 50px;
+    height: 0;
+    margin: 0;
 }
 
 .sub4_menu li {
